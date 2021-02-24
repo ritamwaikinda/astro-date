@@ -1,0 +1,19 @@
+.navBar {
+  height: 5rem;
+  width: 100%;
+  position: sticky;
+  background-size: cover;
+  z-index: 10000000;
+  background: rgb(25, 25, 40);
+  background: linear-gradient(
+    180deg,
+    rgba(25, 25, 40, 1) 0%,
+    rgba(25, 25, 40, 1) 8%,
+    rgba(25, 25, 40, 1) 21%,
+    rgba(25, 25, 40, 0.9251050762101716) 44%,
+    rgba(25, 25, 40, 0.9279061966583508) 44%,
+    rgba(25, 25, 40, 0.8214636196275386) 65%,
+    rgba(25, 25, 40, 0.5385504543614321) 89%,
+    rgba(25, 25, 40, 0) 100%
+  );
+}

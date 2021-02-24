@@ -8,6 +8,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import CustomizedDropDown from './MenuDropDown';
 import './NavigationBar.css';
 import NavLogo from './NavLogo';
+
 import swal from 'sweetalert';
 import axios from 'axios';
 import { AppContext } from '../context/AppContext';
@@ -15,11 +16,12 @@ import { AppContext } from '../context/AppContext';
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
-    background:
-      'linear-gradient(180deg, #181827 53.09%, rgba(24, 24, 39, 1) 77.05%)',
+    zIndex: 100,
+    backgroundColor: 'rgb(25, 25, 40)',
+    height: '5rem',
+    // paddingTop: '0.5rem',
     color: '#dfbc60',
-    boxShadow: 'none',
-    height: '2.5em'
+    boxShadow: 'none'
   },
   menuButton: {
     marginLeft: 'auto',
