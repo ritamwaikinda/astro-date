@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
 
 .homecontainer {
   height: 100vh;
@@ -12,7 +12,7 @@
   color: #ffffff;
 }
 .hometitle {
-  font-family: Spectral;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 48px;
@@ -21,7 +21,7 @@
 }
 
 .hometag-line {
-  font-family: Karla;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 35px;
@@ -30,7 +30,7 @@
   margin: 1em 0 0em 0;
 }
 .homehelp-text {
-  font-family: Karla;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -45,7 +45,7 @@
 }
 
 .account {
-  font-family: Karla;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;

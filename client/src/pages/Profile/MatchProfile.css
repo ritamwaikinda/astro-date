@@ -11,7 +11,7 @@
 
 .userprofilehead-visit {
   position: center;
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
   font-size: 3em;
@@ -46,7 +46,7 @@
 }
 
 .userprofile-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -60,28 +60,28 @@
   margin: 20px;
 }
 .username-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 2em;
   color: #dfbc60;
 }
 .userage-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 2em;
   color: #ffffff;
 }
 .userlocation-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 2em;
   color: #ffffff;
 }
 .userbio-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 1.5em;
@@ -92,7 +92,7 @@
   text-align: center;
 }
 .signsheader-visist {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 2em;
@@ -102,7 +102,7 @@
   position: center;
 }
 .usersun-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -110,7 +110,7 @@
   color: #dfbc60;
 }
 .usersuntext-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 1em;
@@ -118,7 +118,7 @@
   color: #ffffff;
 }
 .usermoon-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -126,7 +126,7 @@
   color: #dfbc60;
 }
 .usermoontext-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 1em;
@@ -134,7 +134,7 @@
   color: #ffffff;
 }
 .userascendant-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -142,7 +142,7 @@
   color: #dfbc60;
 }
 .userascendanttext-visit {
-  font-family: Karla;
+  font-family: 'Karla';
   font-style: normal;
   font-weight: normal;
   font-size: 1em;
