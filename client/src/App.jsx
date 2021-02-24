@@ -9,7 +9,6 @@ import Match from './pages/Profile/MatchProfile';
 import Profile from './pages/Profile/Profile';
 import Preferences from './pages/Preferences/Preferences';
 import MessageThread from './pages/Inbox/Messages/MessageThread';
-
 import { AppContextProvider } from './context/AppContext';
 import './App.css';
 import Inbox from './pages/Inbox/Inbox';
