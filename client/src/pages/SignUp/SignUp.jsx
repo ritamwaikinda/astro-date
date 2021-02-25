@@ -59,7 +59,6 @@ const SignUp = ({ history }) => {
   return (
     <div className={'main-holder-sign-up'}>
       <form onSubmit={handleSubmit} className={'container-caro'}>
-        <p className={'title-su'}> Astrodate </p>
         <p className={'sub-title-su'}> LET'S GET STARTED! </p>
         <ActiveForm handleChange={handleChange} userData={userData} />
         <br />

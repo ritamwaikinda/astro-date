@@ -32,8 +32,8 @@ const SelectCity = ({ handleChange, userData }) => {
           {apiData &&
             apiData.map((city, i) => {
               return (
-                <option id="birthCity" key={i} value={city.city_name}>
-                  {city.city_name}
+                <option id="birthCity" key={i} value={city.name}>
+                  {city.name}
                 </option>
               );
             })}

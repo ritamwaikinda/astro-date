@@ -29,24 +29,14 @@
   /* padding-left: 1em; */
 }
 
-.title-su {
-  font-family: ' ' Spectral '';
-  font-style: normal;
-  font-weight: normal;
-  font-size: 2em;
-  line-height: 37px;
-  color: #dfbc60;
-  align-self: flex-start;
-}
-
 .sub-title-su {
   font-family: 'Karla';
   font-style: normal;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 2.5rem;
   line-height: 28px;
-  align-self: flex-start;
-  margin: 1.5em 0 1.5em 0;
+  align-self: center;
+  margin: 2.5em 0 1.3em 0;
   color: #ffffff;
 }
 
@@ -60,20 +50,21 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  overflow: auto;
+  overflow: none;
   margin: 2em 0 1em 0;
 }
 
 .button-identity-su {
   border-radius: 50%;
-  border: solid 5px black;
   width: 5em;
   height: 5em;
+  /* margin: 0.05rem; */
   display: flex;
   justify-content: center;
   align-items: center;
   /* font-size: 0.6em; */
-  background: #ffffff;
+  border: 2px solid #181827;
+  background: #ddcda5;
   color: #181827;
 }
 
@@ -118,9 +109,18 @@
 .button-identity-su:hover,
 .sub-button-su:hover {
   cursor: pointer;
-  /* background: lightcyan; */
+  background: #dfbc60;
+  outline: none;
+  transform: scale(1.1);
+  overflow: hidden;
 }
-
+.button-identity-su:active,
+.sub-button-su:active {
+  cursor: pointer;
+  background: #dfbc60;
+  outline: none;
+  transform: scale(0.9);
+}
 .user-input-su {
   align-self: center;
   justify-self: center;
