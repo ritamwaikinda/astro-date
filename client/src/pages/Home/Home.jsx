@@ -23,6 +23,9 @@ const Home = () => {
             <button className={'account'}>Create Free Account</button>
           </Link>
         </li>
+        <div className="developerMemo">
+          FOR DEVELOPERS: USERNAME=TEST@TEST5000.COM PASSWORD=12345678
+        </div>
         <li className={'log'}>
           <Link to="/login">
             <a className="sign">Sign In</a>

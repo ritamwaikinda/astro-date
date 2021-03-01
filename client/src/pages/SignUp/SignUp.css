@@ -111,8 +111,10 @@
   cursor: pointer;
   background: #dfbc60;
   outline: none;
-  transform: scale(1.1);
   overflow: hidden;
+}
+.button-identity-su:hover {
+  transform: scale(1.1);
 }
 .button-identity-su:active,
 .sub-button-su:active {
@@ -187,7 +189,7 @@
   } */
 
 /* .container {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-  } */
+  display: flex;
+  justify-content: center;
+  align-content: center;
+} */

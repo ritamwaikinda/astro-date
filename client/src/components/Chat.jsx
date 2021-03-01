@@ -45,7 +45,7 @@ const Chat = () => {
           placeholder="Messages"
           onChange={(e) => setMessage(e.target.value)}
         />
-        <button onClick={sendMessage}>Send</button>
+        <button onSubmit={sendMessage}>Send</button>
       </div>
     </div>
   );

@@ -113,7 +113,7 @@ const Chat = (props) => {
           onChange={(e) => setMessage(e.target.value)}
           className="form-control"
         />
-        <button onClick={sendMessage} className="submit-dm">
+        <button onSubmit={sendMessage} className="submit-dm">
           Send
         </button>
       </div>
