@@ -1,0 +1,13 @@
+MONGODB_URL=mongodb+srv://teamastroc39:teamAstro123!!!@cluster0.msnwq.mongodb.net/FakedDataDemo?retryWrites=true&w=majority
+SENDGRID_API_KEY=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
+FROM_EMAIL=teamastroc39@gmail.com
+JWT_SECRET=imalittleteapotshortandstoutlistendontcallmeateapot
+APP_URL=http://localhost:3000
+CLOUDINARY_URL=cloudinary://383678765671363:m8koKi42iEBJTSKRd15Q2LuE-IQ@dfw4xa8n6
+IMM_KEY=7h0q0pbwoNLFpmkkAzhewzRR217RImf5
+IMM_SEC=Hi7kDbZNZOvn
+APIKEY=JcxHtcmtJ0qXhixcjpp4F1pLpRsrPsDQ
+
+LOCATION_API_TOKEN=E9hBzuSaKE6IGTdY8-Fx6Ijd6L186ezG27Yk7NxIhAR4S6JxjwrrlFdkgWpmGn7uG4E
+LOCATION_AUTH_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7fSwiZXhwIjoxNjE0ODA4Nzk1fQ.7_Ys_-St10ft47hJ3TvWUNXo2n0tTcKWLtsBWqqQoh8
+ASTRO_APIKEY=062f3f0c52286fb4b03cce9fa2d105a2
